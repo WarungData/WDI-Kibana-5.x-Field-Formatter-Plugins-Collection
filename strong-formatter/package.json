@@ -1,0 +1,14 @@
+{
+  "name": "strong-formatter",
+  "version": "1.0.0",
+  "description": "For change html strong tag fields in dicovery",
+  "url": "",
+  "author": "Deddy Ratnanto <deddy@warungdata.com>",
+  "kibana": {
+    "version": "5.6.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WarungData/WDI-Kibana-5.x-Field-Formatter-Plugins-Collection"
+  }
+}
